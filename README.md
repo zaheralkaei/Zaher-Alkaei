@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaheralkaei (Zaher Alkaei)
-- 👀 I’m interested in computational musicology
-- 🌱 I’m currently learning R & python
-- 💞️ I’m looking to collaborate on music projects
+- 👀 I’m interested in computational linguistics machine learning and musicology
+- 🌱 I know R & python
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me zaheralkaei@gmail.com
 
 <!---
