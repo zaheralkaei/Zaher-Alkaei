@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaheralkaei (Zaher Alkaei)
-- 👀 I’m interested in computational linguistics machine learning and musicology
+- 👀 I’m interested in computational linguistics, machine learning and musicology
 - 🌱 I know R & python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me zaheralkaei@gmail.com
